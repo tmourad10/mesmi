@@ -37,11 +37,11 @@ http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4069.m3u8
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4393.m3u8
 #EXTINF: -1, Bein Sporm3u8 SD
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4078.m3u8
-BetisTV.es#EXTINF: -1, Betis TV
+#EXTINF: -1, Betis
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4392.m3u8
 #EXTINF: -1, Boing
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4329.m3u8
-Calle13.sp#EXTINF: -1, Calle 13
+#EXTINF: -1, Calle 13
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4364.m3u8
 #EXTINF: -1, Canal Cocina
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4346.m3u8
@@ -143,7 +143,7 @@ http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4066.m3u8
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4390.m3u8
 #EXTINF: -1, La Otra
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4283.m3u8
-LaSa.sp#EXTINF: -1, La Sa SD
+#EXTINF: -1, La Sa SD
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4315.m3u8
 #EXTINF: -1, LaLiga 123 HD
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4065.m3u8
@@ -155,7 +155,7 @@ http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4281.m3u8
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4314.m3u8
 #EXTINF: -1, Mega SD
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4312.m3u8
-MezzoLiveHD.sp#EXTINF: -1, Mezzo Live HD
+#EXTINF: -1, Mezzo Live HD
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4275.m3u8
 #EXTINF: -1, Movistar Accion SD
 http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4377.m3u8
